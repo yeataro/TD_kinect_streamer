@@ -1,3 +1,5 @@
 # TD_kinect_streamer
- touchdesigner kinect st
-downsample by noise and streaming
+
+touchdesigner kinect streamer.
+
+downsample by noise and streaming.
