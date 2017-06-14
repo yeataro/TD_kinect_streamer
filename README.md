@@ -1,8 +1,9 @@
 # TD_kinect_streamer
 
-touchdesigner kinect streamer.
-
+touchdesigner kinect streamer.  
 downsample by noise and streaming.
+
+you can using Multiple Kinect devices by this .tox
 
 Use examples: 
 
