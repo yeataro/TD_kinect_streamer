@@ -9,4 +9,4 @@ Use examples:
 
 [![VIDEO](https://img.youtube.com/vi/kvW1nT9a9og/0.jpg)](https://www.youtube.com/playlist?list=PLMLSG_b12bxBPgZ-5jiyOJzZQhkioaKbd "VIDEO")
 
-[![examples](https://raw.githubusercontent.com/yeataro/TD_kinect_streamer/master/screenshots/shot01.png)]
+![examples](https://raw.githubusercontent.com/yeataro/TD_kinect_streamer/master/screenshots/shot01.png)
